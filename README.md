@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raman Butta.
+ 👋 Hi, I’m Raman Butta.
 
 <!---
 - 👀 I’m interested in ...
