@@ -11,4 +11,4 @@ galaxyeagle/galaxyeagle is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Check out my website galaxyeagle.github.io
+Check out my [website](galaxyeagle.github.io)
