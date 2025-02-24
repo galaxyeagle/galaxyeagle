@@ -1,4 +1,8 @@
- <!---
+My github profile is a reflection of my interests. Fullstack development, AI, Robotics and Medical Research with a focus on Multi-Omics. Some repos have been made while others are on the way. 
+
+Check out my [website](https://galaxyeagle.github.io) to know more about me. Shoot me an [email](raman.butta.in@ieee.org) to connect.
+
+<!---
 👋 Hi, I’m Raman Butta.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -11,4 +15,3 @@ galaxyeagle/galaxyeagle is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Check out my [website](https://galaxyeagle.github.io)
