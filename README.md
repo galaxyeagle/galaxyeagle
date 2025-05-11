@@ -6,8 +6,10 @@ Check out my [website](https://galaxyeagle.github.io) to know more about me. Sho
 
  <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
 
- 
 <!--END_SECTION:waka-->
 
 <!---
