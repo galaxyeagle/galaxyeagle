@@ -2,6 +2,14 @@ My github profile is a reflection of my interests. Fullstack development, AI, Ro
 
 Check out my [website](https://galaxyeagle.github.io) to know more about me. Shoot me an [email](raman.butta.in@ieee.org) to connect.
 
+![Visitor Count](https://profile-counter.glitch.me/galaxyeagle/count.svg)
+
+ <!--START_SECTION:waka-->
+
+
+ 
+<!--END_SECTION:waka-->
+
 <!---
 👋 Hi, I’m Raman Butta.
 - 👀 I’m interested in ...
