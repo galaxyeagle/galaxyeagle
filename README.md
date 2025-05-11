@@ -19,6 +19,12 @@ No activity tracked
 - [Dev.to](https://dev.to/raman_butta)
 - [My website](https://galaxyeagle.github.io/pages/tech/webd/)
 
+  [![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=galaxyeagle&show_icons=true&theme=transparent)](https://github.com/galaxyeagle/github-readme-stats)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyeagle&layout=compact&theme=transparent)
+
+  [![Raman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=galaxyeagle&theme=github-compact)](https://github.com/galaxyeagle/github-readme-activity-graph)
+
 <!---
 👋 Hi, I’m Raman Butta.
 - 👀 I’m interested in ...
