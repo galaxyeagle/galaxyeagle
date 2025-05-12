@@ -1,11 +1,20 @@
+
+**Visitor count** 
+
+![Visitor Count](https://profile-counter.glitch.me/galaxyeagle/count.svg)
+
 ### About me
 
 My github profile is a reflection of my interests. Fullstack development, AI, Robotics and Medical Research with a focus on Multi-Omics. Some repos have been made while others are on the way. 
 
 Check out my [website](https://galaxyeagle.github.io) to know more about me. Shoot me an [email](raman.butta.in@ieee.org) to connect.
 
-![Visitor Count](https://profile-counter.glitch.me/galaxyeagle/count.svg)
+### My technical blogs:
 
+- [Dev.to](https://dev.to/raman_butta)
+- [My website](https://galaxyeagle.github.io/pages/tech/webd/)
+
+### Recent activity:
  <!--START_SECTION:waka-->
 
 ```txt
@@ -18,14 +27,11 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### My technical blogs:
 
-- [Dev.to](https://dev.to/raman_butta)
-- [My website](https://galaxyeagle.github.io/pages/tech/webd/)
+  
+![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=galaxyeagle&show_icons=true&theme=transparent) &nbsp; &nbsp; &nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyeagle&layout=compact&theme=transparent)
 
-  [![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=galaxyeagle&show_icons=true&theme=transparent)](https://github.com/galaxyeagle/github-readme-stats)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxyeagle&layout=compact&theme=transparent)
 
   [![Raman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=galaxyeagle&theme=github-compact)](https://github.com/galaxyeagle/github-readme-activity-graph)
 
