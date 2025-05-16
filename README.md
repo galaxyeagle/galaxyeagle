@@ -14,7 +14,7 @@ Check out my [website](https://galaxyeagle.github.io) to know more about me. Sho
 - [Dev.to](https://dev.to/raman_butta)
 - [My website](https://galaxyeagle.github.io/pages/tech/webd/)
 
-### Recent activity:
+### Last 24 hours activity:
  <!--START_SECTION:waka-->
 
 ```txt
