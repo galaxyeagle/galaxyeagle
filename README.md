@@ -26,11 +26,11 @@ Check out my [website](https://galaxyeagle.github.io) to know more about me. Sho
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 38 mins   █████████████▒░░░░░░░░░░░   53.01 %
-Markdown     5 hrs 8 mins    █████████░░░░░░░░░░░░░░░░   35.61 %
-JavaScript   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+TypeScript   7 hrs 29 mins   ██████████████▒░░░░░░░░░░   57.12 %
+Markdown     3 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
+JSON         54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+JavaScript   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
