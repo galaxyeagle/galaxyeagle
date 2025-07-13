@@ -1,7 +1,5 @@
 
-**Visitor count** 
-
-![Visitor Count](https://profile-counter.glitch.me/galaxyeagle/count.svg)
+![](https://komarev.com/ghpvc/?username=galaxyeagle)
 
 ### About me
 
