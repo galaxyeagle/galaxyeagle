@@ -12,10 +12,11 @@ Check out my [website](https://galaxyeagle.github.io) to know more about me. Sho
 - [Dev.to](https://dev.to/raman_butta)
 - [My website](https://galaxyeagle.github.io/pages/tech/webd/)
 
-### My PRs & Discussions
+### My PRs/Issues/Discussions
 
 - [NextAuth Demo](https://github.com/jherr/next-auth-v5/pull/2)
 - [Zed Markdown Features](https://github.com/zed-industries/zed/discussions/30275#discussion-8295504)
+- [VSCode Jupyter Markdown Cell Highlighting](https://github.com/microsoft/vscode-jupyter/issues/16818)
 
 ### Last 7 days' activity:
  <!--START_SECTION:waka-->
