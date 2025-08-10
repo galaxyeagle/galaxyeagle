@@ -7,10 +7,11 @@ My github profile is a reflection of my interests. Fullstack development, AI, Ro
 
 Check out my [website](https://galaxyeagle.github.io) to know more about me. Shoot me an [email](raman.butta.in@ieee.org) to connect.
 
-### My technical blogs:
+### My technical blogs/profiles:
 
 - [Dev.to](https://dev.to/raman_butta)
 - [My website](https://galaxyeagle.github.io/pages/tech/webd/)
+- [Kaggle Profile](https://www.kaggle.com/ramanbutta)
 
 ### My PRs/Issues/Discussions
 
