@@ -25,7 +25,7 @@ Check out my [website](https://galaxyeagle.github.io) to know more about me. Sho
 
 ```txt
 Markdown     4 hrs 58 mins   ████████████████████████░   95.68 %
-TypeScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+TypeScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
