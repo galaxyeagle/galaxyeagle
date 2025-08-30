@@ -24,9 +24,9 @@ Shoot me an [email](raman.butta.in@ieee.org) to connect.
  <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 hrs 28 mins   ████████████████████████▒   97.89 %
-Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown   2 hrs 22 mins   ████████████████████████▒   96.94 %
+Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
