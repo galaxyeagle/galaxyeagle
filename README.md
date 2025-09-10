@@ -10,7 +10,7 @@ Shoot me an [email](raman.butta.in@ieee.org) to connect.
 ### My technical blogs/profiles:
 
 - [Dev.to](https://dev.to/raman_butta)
-- [My website](https://galaxyeagle.github.io/pages/tech/webd/)
+- [My website](https://galaxyeagle.github.io/pages/tech/)
 - [Kaggle Profile](https://www.kaggle.com/ramanbutta)
 
 ### My PRs/Issues/Discussions
