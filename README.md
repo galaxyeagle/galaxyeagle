@@ -1,6 +1,28 @@
 
 ![](https://komarev.com/ghpvc/?username=galaxyeagle)
 
+<h1 align="center">Hi 👋, I'm Raman Butta</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320" height="250" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+</p>
+
+
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/ramanbutta/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://x.com/RamanButta1" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+</div>
+
+
+
 ### About me
 
 My github profile is a reflection of my interests. Fullstack development, AI, Robotics and Medical Research with a focus on Multi-Omics. Some repos have been made while others are on the way. 
