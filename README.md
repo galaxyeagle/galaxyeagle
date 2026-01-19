@@ -46,11 +46,10 @@ Shoot me an [email](raman.butta.in@ieee.org) to connect.
  <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 1 min      █████████████████▓░░░░░░░   71.23 %
-TypeScript   11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-JSON         10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Markdown     15 mins         ██████████░░░░░░░░░░░░░░░   39.95 %
+TypeScript   11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.98 %
+JSON         10 mins         ███████▒░░░░░░░░░░░░░░░░░   28.84 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
