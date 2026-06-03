@@ -46,8 +46,7 @@ Shoot me an [email](raman.butta.in@ieee.org) to connect.
  <!--START_SECTION:waka-->
 
 ```txt
-Other    20 mins               ██████████████▒░░░░░░░░░░   57.36 %
-Python   15 mins               ██████████▓░░░░░░░░░░░░░░   42.64 %
+Python   9 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
