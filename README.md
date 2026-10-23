@@ -57,7 +57,9 @@ No activity tracked
 
 
 
-  [![Raman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=galaxyeagle&theme=github-compact)](https://github.com/galaxyeagle/github-readme-activity-graph)
+[![Raman's GitHub Streak](https://streak-stats.demolab.com?user=galaxyeagle&theme=github-dark&hide_border=true)](https://github.com/galaxyeagle/galaxyeagle)
+  
+ 
 
 <!---
 👋 Hi, I’m Raman Butta.
@@ -70,5 +72,6 @@ No activity tracked
 <!---
 galaxyeagle/galaxyeagle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+ [![Raman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=galaxyeagle&theme=github-compact)](https://github.com/galaxyeagle/github-readme-activity-graph)
 --->
 
